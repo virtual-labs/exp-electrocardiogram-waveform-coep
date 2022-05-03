@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The bioelectric generator of heart is situated at",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "SA Node",
+        "b": "Aortic Valve",
+        "c": "AV Node",
+        "d": "The Brain"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Arrhythmia can be diagnosed by",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "PCG",
+        "b": "EMG",
+        "c": "ECG",
+        "d": "None of above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Bicycle ergometer is related with",
+      "answers": {
+        "a": "EEG",
+        "b": "ECG",
+        "c": "EMG",
+        "d": "None of above"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The biosignal frequencies from various sections of the human body are in the",
+      "answers": {
+        "a": "0 to few KHz",
+        "b": "few KHz to few MHz",
+        "c": "RF frequency range",
+        "d": "0 to RF frequency range"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The most abundant negative ions in our body are",
+      "answers": {
+        "a": "chlorates",
+        "b": "sulphates",
+        "c": "borates",
+        "d": "chlorides"
+      },
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
