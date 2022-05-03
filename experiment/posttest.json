@@ -1,38 +1,64 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+     {
+      "question": "The T wave is produced during",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "repolarisation of the ventricles",
+        "b": "atrial repolarisation",
+        "c": "depolarisation of the ventricles",
+        "d": "atrial depolarization"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Artifacts are",
+      "answers": {
+        "a": "radio noises",
+        "b": "skin crafts",
+        "c": "time varying half cell potentials",
+        "d": "radio capsules"
       },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In ECG, the calibration signal amplitude is",
+      "answers": {
+        "a": "1 V",
+        "b": "0.5 mV",
+        "c": "1 &mu;V",
+        "d": "1 mV"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In the case of stable total AV block, a pacemaker is chosen",
+      "answers": {
+        "a": "with constant frequency",
+        "b": "that is atrial synchronous",
+        "c": "that is ventricular synchronous",
+        "d": "with variable frequency and synchronization with ventricular action"
+      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The magnitude of the polarization for a given electrode material is dependent primarily on the",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "shape of electrode",
+        "b": "current density at the surface of contact between electrode and tissue",
+        "c": "impedance of the electrode",
+        "d": "Half cell potential"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
