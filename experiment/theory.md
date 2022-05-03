@@ -144,9 +144,9 @@ Unfortunately, recording electrodes do not act as a passive conductor
 1. The placement of a metal next to an electrolyte solution as seen on the surface of skin produces an electrochemical half-cell resulting in the generation of an electromagnetic force
 2. If a differential amplifier is connected to a pair of such electrodes, their output potentials are compared
       * If the cells are identical, the outputs will be self cancelling yielding zero output
-      * If the cells are not identical, the difference in potential between the two cells will be amplified
-                - Additionally, the small current produced by the offset potential may result in polarisation
-                - A polarised electrode will distort any signal
+      * If the cells are not identical, the difference in potential between the two cells will be amplified\
+                - Additionally, the small current produced by the offset potential may result in polarisation\
+                - A polarised electrode will distort any signal\
                 - Mechanical movement of recording electrodes results in changes in potential
       * Due to alteration in the physical dimensions of the electrode-skin half cell thus modifying cell potential and skin-electrode impedance
 
