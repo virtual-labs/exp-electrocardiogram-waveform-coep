@@ -119,7 +119,7 @@ May enter via
 1. Differential analyser
 2. High CMRR
 3. Shielded patient circuitry with copper or aluminum enclosure
-4. ”Floating” RL ECG
+4. "Floating" RL ECG
 5. Surrounding each lead with a braided copper screen to minimize electrostatic induction
 6. Keep leads as short as possible
 7. Mitigate effects of electromagnetic fields by ensuring all of patient's leads are of the same length, are closely bound together or even twisted together          until close to the electrodes thereby ensuring that the induced signals are identical & therefore susceptible to CMRR
