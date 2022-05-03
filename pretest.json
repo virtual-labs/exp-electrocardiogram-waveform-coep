@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The bioelectric generator of heart is situated at",
+      "answers": {
+        "a": "SA Node",
+        "b": "Aortic Valve",
+        "c": "AV Node",
+        "d": "The Brain"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Arrhythmia can be diagnosed by",
+      "answers": {
+        "a": "PCG",
+        "b": "EMG",
+        "c": "ECG",
+        "d": "None of above"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Bicycle ergometer is related with",
+      "answers": {
+        "a": "EEG",
+        "b": "ECG",
+        "c": "EMG",
+        "d": "None of above"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The biosignal frequencies from various sections of the human body are in the",
+      "answers": {
+        "a": "0 to few KHz",
+        "b": "few KHz to few MHz",
+        "c": "RF frequency range",
+        "d": "0 to RF frequency range"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The most abundant negative ions in our body are",
+      "answers": {
+        "a": "chlorates",
+        "b": "sulphates",
+        "c": "borates",
+        "d": "chlorides"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
